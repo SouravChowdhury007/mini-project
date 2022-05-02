@@ -1,2 +1,3 @@
 # mini-project
-this is blockchain project
+This my blockchain mini project.
+Wr have created VOS token.
